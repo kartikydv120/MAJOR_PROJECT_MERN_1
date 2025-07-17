@@ -3,7 +3,7 @@
 A MERN (MongoDB, Express.js, React, Node.js) stack-based project for a travel destinations platform. Users can register, log in, browse listings, and perform CRUD operations. The application uses MongoDB for database operations, Express and Node for backend APIs, and EJS for templating on the frontend.
 
 ## 🌐 Live Demo
-[View Deployed Project](https://major-project-mern-1.onrender.com/listings) -- Replace with your actual deployment link
+[View Deployed Project](https://major-project-mern-1.onrender.com/listings)
 
 ## 📁 Project Structure
 ```
