@@ -17,7 +17,6 @@ const flash = require("connect-flash");
 const passport = require("passport");
 const LocalStrategy = require("passport-local");
 const User = require("./Modals/user");
-const helmet = require("helmet");
 const listingRouter = require("./routes/listings");
 const reviewRouter = require("./routes/reviews");
 const userRouter = require("./routes/user");
@@ -33,7 +32,6 @@ main().then(()=>{
 async function main(){
     await mongoose.connect(dbUrl);
 };
-app.use(helmet());
 app.set("view engine","ejs");
 app.set("views",path.join(__dirname,"views"));
 app.use(express.urlencoded({ extended: true }));//to parse the form data
