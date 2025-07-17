@@ -67,34 +67,30 @@ SECRET=
 ## 🖼️ Screenshots
 
 ### 🏠 Home Page  
-![Home](screenshots/home.png)
+![Home](home.png)
 
 ### 📃 Listing Page  
-![Listing](screenshots/listing.png)
+![Listing](listing.png)
 
 ### ➕ New Listing Form  
-![New Listing](screenshots/new-listing.png)
+![New Listing](EditListing.png)
 
--- Testing Note
 ## 🧪 Testing
 Basic manual testing is implemented. You can use tools like Postman for API testing or write test cases using Mocha/Chai.
 
--- License
 ## 🧾 License
 This project is licensed under the [MIT License](LICENSE).
 
--- Author Info
 ## 🧑‍💻 Author
 - Kartik Yadav  
 GitHub: [@kartikydv120](https://github.com/kartikydv120)
 
 Feel free to raise an issue or contribute to the project!
 
--- Contribution Guide
 ## 🤝 Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you'd like to change.
 
 -- Contact Info
 ## 📬 Contact
-If you want to reach out for any reason, you can find me on [LinkedIn](https://www.linkedin.com/in/kartikydv120)  
-or email me at `your-email@example.com`.
+If you want to reach out for any reason, you can find me on [LinkedIn](https://www.linkedin.com/in/kartik-yadav-91929a271?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
+or email me at `kartikyadav102003@example.com`.
